@@ -1,0 +1,12 @@
+[memo.txt]
+
+[0701]
+npm i prop-types : 
+ctrl + shift + L = 같은 단어 선택
+선택 후 ctrl + K + F = 자동 정렬
+
+[0630]
+react
+npm
+npm install npx -g
+npm create-react-app movie_app
